@@ -27,7 +27,7 @@ import java.util.List;
  * @author: onlylemi
  */
 public class MapView extends SurfaceView implements SurfaceHolder.Callback {
-
+	// test branch
     private static final String TAG = "MapView";
 
     private SurfaceHolder holder;
